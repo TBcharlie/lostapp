@@ -1,0 +1,16 @@
+C:\projetos\lostapp\Lostapi.tests\bin\Debug\net8.0\CoverletSourceRootsMapping_LostApi.Tests
+C:\projetos\lostapp\Lostapi.tests\obj\Debug\net8.0\LostApi.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\lostapp\Lostapi.tests\obj\Debug\net8.0\LostApi.Tests.AssemblyInfoInputs.cache
+C:\projetos\lostapp\Lostapi.tests\obj\Debug\net8.0\LostApi.Tests.AssemblyInfo.cs
+C:\projetos\lostapp\lostapi.tests\bin\Debug\net8.0\testhost.exe
+C:\projetos\lostapp\lostapi.tests\bin\Debug\net8.0\testhost.dll
+C:\projetos\lostapp\lostapi.tests\bin\Debug\net8.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\projetos\lostapp\lostapi.tests\bin\Debug\net8.0\xunit.runner.reporters.netcoreapp10.dll
+C:\projetos\lostapp\lostapi.tests\bin\Debug\net8.0\xunit.runner.utility.netcoreapp10.dll
+C:\projetos\lostapp\lostapi.tests\bin\Debug\net8.0\LostApi.Tests.deps.json
+C:\projetos\lostapp\lostapi.tests\bin\Debug\net8.0\LostApi.Tests.runtimeconfig.json
+C:\projetos\lostapp\lostapi.tests\obj\Debug\net8.0\LostApi..552A9BCA.Up2Date
+C:\projetos\lostapp\lostapi.tests\obj\Debug\net8.0\LostApi.Tests.genruntimeconfig.cache
+C:\projetos\lostapp\lostapi.tests\obj\Debug\net8.0\LostApi.Tests.csproj.AssemblyReference.cache
+C:\projetos\lostapp\lostapi.tests\obj\Debug\net8.0\LostApi.Tests.csproj.CoreCompileInputs.cache
+C:\projetos\lostapp\lostapi.tests\obj\Debug\net8.0\LostApi.Tests.sourcelink.json

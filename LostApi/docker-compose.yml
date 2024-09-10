@@ -1,0 +1,17 @@
+services:
+  api:
+    build: .
+    ports:
+      - "5001:80"
+    depends_on:
+      - db
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+  db:
+    image: postgres:13
+    environment:
+      POSTGRES_USER: user
+      POSTGRES_PASSWORD: password
+      POSTGRES_DB: lostapi
+    ports:
+      - "5432:5432"
